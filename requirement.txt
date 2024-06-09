@@ -1,0 +1,5 @@
+Python Packages:-
+ 1. NumPy
+ 2. Pandas
+ 3. transformers
+ 4. langchain
